@@ -54,4 +54,4 @@ Utilized the custom 'Topsis-Pratyush-102103302' package to compute TOPSIS scores
     
  ## Analysis
 
-GPT-3 has recieved **1st Rank** in this evaluation dataset. 
+XLNet has recieved **1st Rank** in this evaluation dataset. 
