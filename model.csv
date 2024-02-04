@@ -1,0 +1,6 @@
+﻿model,accuracy,ap,f1
+BERT,0.86,0.83,0.8
+GPT-3,0.88,0.85,0.82
+DistilBERT,0.85,0.82,0.79
+RoBERTa,0.87,0.84,0.81
+XLNet,0.84,0.81,0.78
